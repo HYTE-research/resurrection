@@ -2,13 +2,13 @@
 
 This code repository is related to an article published in New Media and Society. 
 
-Further theorization on *resurrecting* tweets is available here:
+Further theorization on *resurrecting* tweets is available here: 
 
-Resurrecting tweets is a step forward from rehydrating tweets, that is, using a list of tweet identifiers to recollect tweets. 
+Harju, A. A., & Huhtamäki, J. (2021). ‘#hellobrother needs to trend’: Methodological reflections on the digital and emotional afterlife of mediated violence. *International Review of Sociology*, 31(2), 1–32. [https://doi.org/10.1080/03906701.2021.1947951](https://doi.org/10.1080/03906701.2021.1947951)
 
-Rehydration is the only option for sharing Twitter data that complies with Terms of Service. 
+Resurrecting tweets is a step forward from *rehydrating* tweets, that is, using a list of tweet identifiers to recollect the full tweet data. 
 
-However, under the Elon Musk administration, the practices for accessing and sharing have been in a constact change. 
+Rehydration is the only option for sharing Twitter data that complies with Terms of Service. However, under the Elon Musk administration, the practices for accessing and sharing have been in a constact change. 
 
 ## Getting ready
 
